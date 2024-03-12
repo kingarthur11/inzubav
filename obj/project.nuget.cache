@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRK9V30PaeqbWhRs9m8QuaP2KsY4NfBOEAxmLkKDxeQABz+hknZSimhzh49GPIRYi/YNRw3CJK9MFF97esFKiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\projects\\dotnet-projects\\jvconsult\\jvconsult.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

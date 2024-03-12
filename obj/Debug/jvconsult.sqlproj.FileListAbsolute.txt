@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\bin\Debug\jvconsult.dacpac
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\bin\Debug\jvconsult.dll
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\bin\Debug\jvconsult.pdb
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\jvconsult.sqlproj.AssemblyReference.cache
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\Model.xml
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\refactor.xml
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\postdeploy.sql
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\predeploy.sql
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\jvconsult.dll
+C:\Users\user\Desktop\projects\dotnet-projects\jvconsult\obj\Debug\jvconsult.pdb
